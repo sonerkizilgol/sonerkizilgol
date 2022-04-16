@@ -1,3 +1,3 @@
 - Hi, I’m Soner.
-- 🌱 I’m currently learning Java and JavaScript.
+- 🌱 I’m currently learning Java.
 - 📫 My e-mail: soner.kizilgol@metu.edu.tr
